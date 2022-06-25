@@ -1,0 +1,39 @@
+# Query: apple-touch-icon
+# ContextLines: 1
+
+14 results - 7 files
+
+myprofile/myResume/about.html:
+  13    <link href="assets/img/favicon.png" rel="icon">
+  14:   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  15  
+
+myprofile/myResume/contact.html:
+  13    <link href="assets/img/favicon.png" rel="icon">
+  14:   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  15  
+
+myprofile/myResume/index.html:
+  13    <link href="assets/img/favicon.png" rel="icon">
+  14:   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  15  
+
+myprofile/myResume/portfolio-details.html:
+  13    <link href="assets/img/favicon.png" rel="icon">
+  14:   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  15  
+
+myprofile/myResume/portfolio.html:
+  13    <link href="assets/img/favicon.png" rel="icon">
+  14:   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  15  
+
+myprofile/myResume/resume.html:
+  13    <link href="assets/img/favicon.png" rel="icon">
+  14:   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  15  
+
+myprofile/myResume/services.html:
+  13    <link href="assets/img/favicon.png" rel="icon">
+  14:   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  15  
